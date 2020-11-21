@@ -1,12 +1,12 @@
 # Site
 name: "Another Technical Blog"
 title: "Another Technical Blog"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Some useful content around technology"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'G-Q81HPJYKP9'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# disqus: 'demowebsite'
+# mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -29,6 +29,13 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  raman:
+    name: 'Raman Sah'
+    display_name: Raman
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: ramansah@live.com
+    web: www.ramansah.com
+    description: "Believes in bringing ideas to life through technology and promote readable, maintainable code in software development."
 
 # Plugins
 plugins:
